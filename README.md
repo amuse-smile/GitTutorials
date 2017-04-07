@@ -11,3 +11,8 @@ Step 3: git commit -m "first commit"
 Step 4: git remote add origin https://github.com/nsabita-sasa/newRepoName.git
 
 Step 5: git push -u origin master
+
+
+For uploading again use pull request
+
+Step 6: git pull origin master
