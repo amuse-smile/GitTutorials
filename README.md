@@ -23,8 +23,8 @@ Step 3: git commit -m "first commit"
 
 Step 4: git remote add origin https://github.com/nsabita-sasa/newRepoName.git
 
-Step 5: git branch <branchname> (to create branch)
+Step 5: git branch branchname (to create branch)
 
-Step 6: git push -u origin <branchname>
+Step 6: git push -u origin branchname
 
 
