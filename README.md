@@ -13,7 +13,7 @@ Step 4: git remote add origin https://github.com/nsabita-sasa/newRepoName.git
 Step 5: git push -u origin master
 
 
-#Pushing your local file in Git Repository (Master branch)
+#Pushing your local file in Git Repository ( branch)
 
 Step 1: git init
 
